@@ -1,6 +1,4 @@
-## how to run
-
-personal react website
+## how to run personal react website
 
 first run 'npm install'
 
