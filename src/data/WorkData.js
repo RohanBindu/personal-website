@@ -27,5 +27,14 @@ export const Work = [
         demo:"n/a",
         github:"https://github.com/RohanBindu/ethereum_swap"
     },
+    {
+        id:4,
+        name:"personal website",
+        description:"my personal website created using react",
+        tags:["react", "framer-motion"],
+        
+        demo:"http://www.rohanbindu.com/",
+        github:"https://github.com/RohanBindu/personal-website"
+    },
   
 ] 
