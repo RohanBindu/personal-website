@@ -93,7 +93,7 @@ const AboutPage = () => {
         <Main>
         </Main>
         <Main>
-          sophomore @ uiuc studying mathematics wtf
+          sophomore @ uiuc studying mathematics
           <br/>
           with a strong interest in computer science
           <br />
