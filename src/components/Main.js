@@ -136,7 +136,7 @@ const Main = () => {
             <span >click the ball</span>
         </Center>
 
-        <Contact target="_blank" to={{pathname:"mailto:rbindu42@gmail.com"}}>
+        <Contact target="_blank" to={{pathname:"mailto:rohan@rohanbindu.com"}}>
           <motion.h2
             initial={{
               y:-200,
