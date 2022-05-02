@@ -105,7 +105,7 @@ const AboutPage = () => {
           and exploring entrepreneurship with zero2one 
           <br />
           <br />
-          if you ever wanna talk about hoops, crypto, stocks, 
+          if you ever wanna talk about hoops, crypto, tech, 
           <br />
           music, or anythin in general -- connect with me 
           <br />
