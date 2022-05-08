@@ -6,6 +6,7 @@ import { Route } from "react-router-dom";
 import Main from './components/Main';
 
 
+
 //Components
 import AboutPage from './components/AboutPage';
 import Hoop from './components/Hoop';
@@ -13,6 +14,7 @@ import Projects from './components/Projects';
 import SkillsPage from './components/SkillsPage';
 import { useLocation } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
+import SoundBar from "./subComponents/SoundBar";
 
 
 function App() {
@@ -23,6 +25,7 @@ function App() {
     <GlobalStyle />
 
       <ThemeProvider theme={lightTheme}>
+      <SoundBar />
       
       <AnimatePresence exitBeforeEnter>
         <Switch location={location} key={location.pathname}>
