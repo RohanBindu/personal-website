@@ -10,6 +10,15 @@ export const Work = [
     },
     {
         id:2,
+        name:"memo",
+        description:"a note taking app built with flask, sql alchemy, and bootstrap",
+        tags:["flask","bootstrap","flask_login", "sqlalchemy"],
+        
+        demo:"n/a",
+        github:"https://github.com/RohanBindu/memo"
+    },
+    {
+        id:3,
         name:"flappy bird",
         description:"flappy bird demo game made with java and javaswing",
         tags:["java","javaswing"],
@@ -19,7 +28,7 @@ export const Work = [
         
     },
     {
-        id:3,
+        id:4,
         name:"ethereum swap",
         description:"app to exchange ethereum with buy and sell features",
         tags:["solidity","javascript","ganache", "ethereum"],
@@ -28,7 +37,7 @@ export const Work = [
         github:"https://github.com/RohanBindu/ethereum_swap"
     },
     {
-        id:4,
+        id:5,
         name:"personal website",
         description:"my personal website created using react",
         tags:["react", "framer-motion"],
