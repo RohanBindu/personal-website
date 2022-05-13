@@ -116,6 +116,7 @@ const SkillsPage = () => {
             <strong>tools</strong>
             <ul>
               <li>vscode</li>
+              <li>flask</li>
               <li>github</li>
               <li>postman</li>
               <li>rest apis</li>
